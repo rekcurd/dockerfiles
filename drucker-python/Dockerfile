@@ -11,6 +11,7 @@ RUN set -x && \
     /usr/local/src/python/bin/pip install grpcio && \
     /usr/local/src/python/bin/pip install grpcio-tools
 ENV PATH /usr/local/src/python/bin:$PATH
+RUN pip install --upgrade pip
 
 # Entrypoint
 COPY entrypoint.sh /usr/local/src/entrypoint.sh
