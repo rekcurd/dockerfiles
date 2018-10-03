@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.2.1](https://github.com/drucker/dockerfiles/tree/v0.2.1) (2018-08-23)
+[Full Changelog](https://github.com/drucker/dockerfiles/compare/v0.2.0...v0.2.1)
+
+**Merged pull requests:**
+
+- Upgrade pip [\#1](https://github.com/drucker/dockerfiles/pull/1) ([keigohtr](https://github.com/keigohtr))
+
 ## [v0.2.0](https://github.com/drucker/dockerfiles/tree/v0.2.0) (2018-07-10)
 
 
