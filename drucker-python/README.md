@@ -4,5 +4,8 @@
 
 ## Official docker image
 ```
-docker pull druckerorg/drucker:python-latest
+docker pull rekcurd/rekcurd:python-latest
 ```
+
+## Entrypoint
+Our entrypoint is described [here](entrypoint.sh).
