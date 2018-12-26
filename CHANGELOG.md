@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.2.2](https://github.com/rekcurd/dockerfiles/tree/v0.2.2) (2018-12-25)
+[Full Changelog](https://github.com/rekcurd/dockerfiles/compare/v0.2.1...v0.2.2)
+
+**Merged pull requests:**
+
+- Minimize dockerfile [\#2](https://github.com/rekcurd/dockerfiles/pull/2) ([keigohtr](https://github.com/keigohtr))
+
 ## [v0.2.1](https://github.com/rekcurd/dockerfiles/tree/v0.2.1) (2018-08-23)
 [Full Changelog](https://github.com/rekcurd/dockerfiles/compare/v0.2.0...v0.2.1)
 
