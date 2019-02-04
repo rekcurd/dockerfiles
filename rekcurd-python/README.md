@@ -1,4 +1,4 @@
-# drucker-python
+# rekcurd-python
 - centos 7
 - python 3.6.5
 
