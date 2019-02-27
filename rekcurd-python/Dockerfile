@@ -13,6 +13,7 @@ RUN pip install --upgrade pip
 
 # Entrypoint
 COPY entrypoint.sh /usr/local/src/entrypoint.sh
+ENTRYPOINT ["/usr/local/src/entrypoint.sh"]
 
 EXPOSE 5000
 EXPOSE 18080
